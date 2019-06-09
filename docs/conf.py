@@ -23,9 +23,7 @@ import sys
 
 sys.path.insert(0, os.path.abspath('..'))
 
-import
-
-python_boilerplate
+import python_boilerplate
 
 # -- General configuration ---------------------------------------------
 
